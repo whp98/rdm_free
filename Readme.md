@@ -4,4 +4,5 @@
 
 ## CDN下载
 
-[jsdelivrCDN](https://cdn.jsdelivr.net/gh/whp98/rmd_free/rdm-201905.exe)
+记得更改名字把`.zip`去掉，这是因为cdn的限制
+[jsdelivrCDN](https://cdn.jsdelivr.net/gh/whp98/rdm_free@0.0.2/rdm-201905.exe.zip)
